@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="BluesfitTest Basic">
+
+
+	<listeners>
+		<listener class-name="org.uncommons.reportng.HTMLReporter" />
+		<listener class-name="org.uncommons.reportng.JUnitXMLReporter" />
+		<!-- <listener class-name="com.qa.listeners.CustomeListeners" /> -->
+	</listeners>
+	
+	
+	<test thread-count="5" name="BlueShiftHomePage">
+		<classes>
+			<class name="com.qa.testcases.BlueShiftHomePage" />
+		</classes>	
+	</test> <!-- Test -->
+	
+	
+	<test thread-count="5" name="QuickRun">
+		<classes>
+			<class name="com.qa.testcases.QuickRun" />
+		</classes>	
+	</test> <!-- Test -->
+	
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+
+	<!-- <test thread-count="5" name="HomePage">
+		<classes>
+			<class name="com.qa.testcases.HomePage" />
+		</classes>
+	</test> Test
+	
+	
+	<test thread-count="5" name="StrategyPage">
+		<classes>
+			<class name="com.qa.testcases.StrategyPage" />
+		</classes>
+	</test> Test
+	
+	
+	<test thread-count="5" name="StrategyDashboard">
+		<classes>
+			<class name="com.qa.testcases.StrategyDashboard" />
+		</classes>
+	</test> Test
+	
+	
+	<test thread-count="5" name="BacktestDashboard">
+		<classes>
+			<class name="com.qa.testcases.BacktestDashboard" />
+		</classes>
+	</test> Test
+	
+	<test thread-count="5" name="KeyMatrixDashboard">
+		<classes>
+			<class name="com.qa.testcases.KeyMatrixDashboard" />
+		</classes>
+	</test> Test
+	
+	
+	
+	<test thread-count="5" name="TransactionDashboard">
+		<classes>
+			<class name="com.qa.testcases.TransactionDashboard" />
+		</classes>
+	</test> Test
+	
+	
+	
+		
+	<test thread-count="5" name="RemoveStrategy">
+		<classes>
+			<class name="com.qa.testcases.RemoveStrategy" />
+		</classes>
+	</test> 	Test
+	
+	
+		<test thread-count="5" name="ProdUrls">
+		<classes>
+			<class name="com.qa.testcases.ProdUrls" />
+		</classes>	
+	</test> Test
+	 -->
+
+</suite> <!-- Suite -->

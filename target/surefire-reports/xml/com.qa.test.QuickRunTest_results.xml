@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="QuickRunTest"
+           tests="48"
+           failures="0"
+           errors="0"
+           skipped="48"
+           time="0.006">
+  <properties />
+  
+            <testcase name="quickRunTest" time="0.0" classname="com.qa.test.QuickRunTest">
+          <skipped />
+    </testcase>
+            <testcase name="quickRunTest" time="0.0" classname="com.qa.test.QuickRunTest">
+          <skipped />
+    </testcase>
+            <testcase name="quickRunTest" time="0.0" classname="com.qa.test.QuickRunTest">
+          <skipped />
+    </testcase>
+            <testcase name="quickRunTest" time="0.0" classname="com.qa.test.QuickRunTest">
+          <skipped />
+    </testcase>
+            <testcase name="quickRunTest" time="0.0" classname="com.qa.test.QuickRunTest">
+          <skipped />
+    </testcase>
+            <testcase name="quickRunTest" time="0.0" classname="com.qa.test.QuickRunTest">
+          <skipped />
+    </testcase>
+            <testcase name="quickRunTest" time="0.0" classname="com.qa.test.QuickRunTest">
+          <skipped />
+    </testcase>
+            <testcase name="quickRunTest" time="0.0" classname="com.qa.test.QuickRunTest">
+          <skipped />
+    </testcase>
+            <testcase name="quickRunTest" time="0.0" classname="com.qa.test.QuickRunTest">
+          <skipped />
+    </testcase>
+            <testcase name="quickRunTest" time="0.0" classname="com.qa.test.QuickRunTest">
+          <skipped />
+    </testcase>
+            <testcase name="quickRunTest" time="0.0" classname="com.qa.test.QuickRunTest">
+          <skipped />
+    </testcase>
+            <testcase name="quickRunTest" time="0.0" classname="com.qa.test.QuickRunTest">
+          <skipped />
+    </testcase>
+            <testcase name="quickRunTest" time="0.0" classname="com.qa.test.QuickRunTest">
+          <skipped />
+    </testcase>
+            <testcase name="quickRunTest" time="0.0" classname="com.qa.test.QuickRunTest">
+          <skipped />
+    </testcase>
+            <testcase name="quickRunTest" time="0.0" classname="com.qa.test.QuickRunTest">
+          <skipped />
+    </testcase>
+            <testcase name="quickRunTest" time="0.0" classname="com.qa.test.QuickRunTest">
+          <skipped />
+    </testcase>
+            <testcase name="quickRunTest" time="0.0" classname="com.qa.test.QuickRunTest">
+          <skipped />
+    </testcase>
+            <testcase name="quickRunTest" time="0.0" classname="com.qa.test.QuickRunTest">
+          <skipped />
+    </testcase>
+            <testcase name="quickRunTest" time="0.0" classname="com.qa.test.QuickRunTest">
+          <skipped />
+    </testcase>
+            <testcase name="quickRunTest" time="0.0" classname="com.qa.test.QuickRunTest">
+          <skipped />
+    </testcase>
+            <testcase name="quickRunTest" time="0.0" classname="com.qa.test.QuickRunTest">
+          <skipped />
+    </testcase>
+            <testcase name="quickRunTest" time="0.0" classname="com.qa.test.QuickRunTest">
+          <skipped />
+    </testcase>
+            <testcase name="quickRunTest" time="0.0" classname="com.qa.test.QuickRunTest">
+          <skipped />
+    </testcase>
+            <testcase name="quickRunTest" time="0.0" classname="com.qa.test.QuickRunTest">
+          <skipped />
+    </testcase>
+            <testcase name="quickRunTest" time="0.0" classname="com.qa.test.QuickRunTest">
+          <skipped />
+    </testcase>
+            <testcase name="quickRunTest" time="0.0" classname="com.qa.test.QuickRunTest">
+          <skipped />
+    </testcase>
+            <testcase name="quickRunTest" time="0.0" classname="com.qa.test.QuickRunTest">
+          <skipped />
+    </testcase>
+            <testcase name="quickRunTest" time="0.0" classname="com.qa.test.QuickRunTest">
+          <skipped />
+    </testcase>
+            <testcase name="quickRunTest" time="0.0" classname="com.qa.test.QuickRunTest">
+          <skipped />
+    </testcase>
+            <testcase name="quickRunTest" time="0.0" classname="com.qa.test.QuickRunTest">
+          <skipped />
+    </testcase>
+            <testcase name="quickRunTest" time="0.0" classname="com.qa.test.QuickRunTest">
+          <skipped />
+    </testcase>
+            <testcase name="quickRunTest" time="0.0" classname="com.qa.test.QuickRunTest">
+          <skipped />
+    </testcase>
+            <testcase name="quickRunTest" time="0.0" classname="com.qa.test.QuickRunTest">
+          <skipped />
+    </testcase>
+            <testcase name="quickRunTest" time="0.0" classname="com.qa.test.QuickRunTest">
+          <skipped />
+    </testcase>
+            <testcase name="quickRunTest" time="0.0" classname="com.qa.test.QuickRunTest">
+          <skipped />
+    </testcase>
+            <testcase name="quickRunTest" time="0.0" classname="com.qa.test.QuickRunTest">
+          <skipped />
+    </testcase>
+            <testcase name="quickRunTest" time="0.0" classname="com.qa.test.QuickRunTest">
+          <skipped />
+    </testcase>
+            <testcase name="quickRunTest" time="0.0" classname="com.qa.test.QuickRunTest">
+          <skipped />
+    </testcase>
+            <testcase name="quickRunTest" time="0.0" classname="com.qa.test.QuickRunTest">
+          <skipped />
+    </testcase>
+            <testcase name="quickRunTest" time="0.0" classname="com.qa.test.QuickRunTest">
+          <skipped />
+    </testcase>
+            <testcase name="quickRunTest" time="0.0" classname="com.qa.test.QuickRunTest">
+          <skipped />
+    </testcase>
+            <testcase name="quickRunTest" time="0.0" classname="com.qa.test.QuickRunTest">
+          <skipped />
+    </testcase>
+            <testcase name="quickRunTest" time="0.0" classname="com.qa.test.QuickRunTest">
+          <skipped />
+    </testcase>
+            <testcase name="quickRunTest" time="0.0" classname="com.qa.test.QuickRunTest">
+          <skipped />
+    </testcase>
+            <testcase name="quickRunTest" time="0.0" classname="com.qa.test.QuickRunTest">
+          <skipped />
+    </testcase>
+            <testcase name="quickRunTest" time="0.0" classname="com.qa.test.QuickRunTest">
+          <skipped />
+    </testcase>
+            <testcase name="quickRunTest" time="0.0" classname="com.qa.test.QuickRunTest">
+          <skipped />
+    </testcase>
+            <testcase name="quickRunTest" time="0.0" classname="com.qa.test.QuickRunTest">
+          <skipped />
+    </testcase>
+  
+  
+</testsuite>

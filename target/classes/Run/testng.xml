@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="BluesfitTest Basic">
+
+
+	<listeners>
+		<listener class-name="org.uncommons.reportng.HTMLReporter" />
+		<listener class-name="org.uncommons.reportng.JUnitXMLReporter" />
+		<listener class-name="com.qa.utilities.Listeners" />
+	</listeners>
+
+
+	<test thread-count="5" name="BlueShiftHomePage">
+		<classes>
+			<class name="com.qa.testcases.BlueShiftHomePage" />
+		</classes>
+	</test> <!-- Test -->
+	
+
+	
+	<test thread-count="5" name="StrategyHomePage">
+		<classes>
+			<class name="com.qa.testcases.StrategyHomePage" />
+		</classes>
+	</test> <!-- Test -->
+	
+
+	
+	
+	<test thread-count="5" name="Helplnks">
+		<classes>
+			<class name="com.qa.testcases.Helplnks" />
+		</classes>
+	</test> <!-- Test -->
+	
+	
+	<test thread-count="5" name="Tour">
+		<classes>
+			<class name="com.qa.testcases.Tour" />
+		</classes>
+	</test> <!-- Test -->
+	
+
+	<test thread-count="5" name="LandingPage">
+		<classes>
+			<class name="com.qa.testcases.LandingPage" />
+		</classes>
+	</test> <!-- Test -->
+
+	
+
+	<test thread-count="5" name="QuickRun">
+		<classes>
+			<class name="com.qa.testcases.QuickRun"/>
+		</classes>
+	</test> <!-- Test -->
+	
+	
+	
+	<test thread-count="5" name="QuickRunTest">
+		<classes>
+			<class name="com.qa.testcases.QuickRunTest"/>
+		</classes>
+	</test> <!-- Test -->
+	
+		<test thread-count="5" name="FXCM">
+		<classes>
+			<class name="com.qa.testcases.FXCM"/>
+		</classes>
+	</test> <!-- Test -->
+	
+	<test thread-count="5" name="FXCM2">
+		<classes>
+			<class name="com.qa.testcases.FXCM2"/>
+		</classes>
+	</test> <!-- Test -->
+	
+	 
+	 		
+		
+
+	<test thread-count="5" name="Email">
+		<classes>
+			<class name="com.qa.testcases.Email"/>
+		</classes>
+	</test> <!-- Test -->
+	
+
+
+
+<!-- 
+	<test thread-count="5" name="Helplnks">
+		<classes>
+			<class name="com.qa.testcases.Helplnks" />
+		</classes>
+	</test> Test
+
+
+	<test thread-count="5" name="Tour">
+		<classes>
+			<class name="com.qa.testcases.Tour" />
+		</classes>
+	</test> Test
+
+
+
+
+
+
+	<test thread-count="5" name="Email">
+		<classes>
+			<class name="com.qa.testcases.Email" />
+		</classes>
+	</test> Test
+
+ -->
+
+	<!-- <test thread-count="5" name="QuickRun"> <classes> <class name="com.qa.testcases.QuickRun" 
+		/> </classes> </test> Test -->
+
+
+
+
+
+
+	<!-- <test thread-count="5" name="HomePage"> <classes> <class name="com.qa.testcases.HomePage" 
+		/> </classes> </test> Test <test thread-count="5" name="StrategyPage"> <classes> 
+		<class name="com.qa.testcases.StrategyPage" /> </classes> </test> Test <test 
+		thread-count="5" name="StrategyDashboard"> <classes> <class name="com.qa.testcases.StrategyDashboard" 
+		/> </classes> </test> Test <test thread-count="5" name="BacktestDashboard"> 
+		<classes> <class name="com.qa.testcases.BacktestDashboard" /> </classes> 
+		</test> Test <test thread-count="5" name="KeyMatrixDashboard"> <classes> 
+		<class name="com.qa.testcases.KeyMatrixDashboard" /> </classes> </test> Test 
+		<test thread-count="5" name="TransactionDashboard"> <classes> <class name="com.qa.testcases.TransactionDashboard" 
+		/> </classes> </test> Test <test thread-count="5" name="RemoveStrategy"> 
+		<classes> <class name="com.qa.testcases.RemoveStrategy" /> </classes> </test> 
+		Test <test thread-count="5" name="ProdUrls"> <classes> <class name="com.qa.testcases.ProdUrls" 
+		/> </classes> </test> Test -->
+</suite> <!-- Suite -->
+

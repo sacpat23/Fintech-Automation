@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="BlueShiftHomePage"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="5.517">
+  <properties />
+  
+  
+            <testcase name="blueSfiftHomePage" time="5.517" classname="com.qa.test.BlueShiftHomePage" />
+      
+</testsuite>

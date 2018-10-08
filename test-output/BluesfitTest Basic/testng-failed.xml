@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="-1" guice-stage="DEVELOPMENT" name="Failed suite [BluesfitTest Basic]">
+  <listeners>
+    <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+    <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
+    <listener class-name="com.qa.utility.Listeners"/>
+  </listeners>
+  <test name="Strategy5(failed)">
+    <classes>
+      <class name="com.qa.testcases.Strategy5">
+        <methods>
+          <include name="closeBrowser"/>
+          <include name="setUp"/>
+          <include name="endReport"/>
+          <include name="blueShit" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- com.qa.testcases.Strategy5 -->
+    </classes>
+  </test> <!-- Strategy5(failed) -->
+</suite> <!-- Failed suite [BluesfitTest Basic] -->

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="FXCM2"
+           tests="5"
+           failures="0"
+           errors="0"
+           skipped="5"
+           time="0.000">
+  <properties />
+  
+            <testcase name="fXCM2" time="0.0" classname="com.qa.test.FXCM2">
+          <skipped />
+    </testcase>
+            <testcase name="fXCM2" time="0.0" classname="com.qa.test.FXCM2">
+          <skipped />
+    </testcase>
+            <testcase name="fXCM2" time="0.0" classname="com.qa.test.FXCM2">
+          <skipped />
+    </testcase>
+            <testcase name="fXCM2" time="0.0" classname="com.qa.test.FXCM2">
+          <skipped />
+    </testcase>
+            <testcase name="fXCM2" time="0.0" classname="com.qa.test.FXCM2">
+          <skipped />
+    </testcase>
+  
+  
+</testsuite>

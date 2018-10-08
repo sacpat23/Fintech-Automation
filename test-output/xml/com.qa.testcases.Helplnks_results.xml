@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Helplnks"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="27.090">
+  <properties />
+  
+  
+            <testcase name="helpLinks" time="27.090" classname="com.qa.testcases.Helplnks" />
+      
+</testsuite>
