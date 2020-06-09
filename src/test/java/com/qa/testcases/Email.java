@@ -30,11 +30,7 @@ public class Email {
 
 	public void emailAttahment() {
 
-		String to = "sachin.p@quantinsti.com";// change accordingly
-		// String to = "sachin.p@quantinsti.com";// change accordingly
-
-		final String user = "quanttesting@gmail.com";// change accordingly
-		final String password = "qa123qa!";// change accordingly
+		
 
 		// 1) get the session object
 		Properties properties = System.getProperties();
